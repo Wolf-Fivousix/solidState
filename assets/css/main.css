@@ -3454,10 +3454,10 @@ input, select, textarea {
 			-webkit-filter: blur(0);
 			-ms-filter: blur(0);
 			filter: blur(0);
-			opacity: 1;
+			opacity: 0.4;
 			font-family: Raleway, Helvetica, sans-serif;
 			font-size: 1em;
-			font-weight: 200;
+			font-weight: bold;
 			letter-spacing: 0.1em;
 			line-height: 2;
 			text-transform: uppercase;
